@@ -76,7 +76,7 @@ My goal is to combine **software engineering + automation** to solve real-world 
 
 ## 🤝 Let's Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/shuvo1122bd
 - LinkedIn: https://www.linkedin.com/profile/nazmul-islam-shuvo
 - Portfolio: Not yet
 
