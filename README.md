@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Shuvo
 
 🚀 Aspiring Web Developer | 🤖 AI Automation Specialist | ⚡ n8n Expert  
 
@@ -77,7 +77,7 @@ My goal is to combine **software engineering + automation** to solve real-world 
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/nazmul-islam-shuvo
+- LinkedIn: https://www.linkedin.com/profile/nazmul-islam-shuvo
 - Portfolio: Not yet
 
 ---
@@ -88,4 +88,4 @@ My goal is to combine **software engineering + automation** to solve real-world 
 
 ---
 
-⭐️ From [userName: shuvo1122bd](https://github.com/shuvo1122bd)
+⭐️ From https://github.com/shuvo1122bd
