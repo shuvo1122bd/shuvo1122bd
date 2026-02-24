@@ -77,8 +77,8 @@ My goal is to combine **software engineering + automation** to solve real-world 
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO (if available)
+- LinkedIn: https://www.linkedin.com/nazmul-islam-shuvo
+- Portfolio: Not yet
 
 ---
 
@@ -88,4 +88,4 @@ My goal is to combine **software engineering + automation** to solve real-world 
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [userName: shuvo1122bd](https://github.com/shuvo1122bd)
