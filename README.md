@@ -70,12 +70,10 @@ My long-term goal is to become a skilled software engineer with a strong algorit
 
 | Platform | Profile |
 |----------|---------|
-| Codeforces | https://codeforces.com/profile/YOUR_HANDLE |
-| AtCoder | https://atcoder.jp/users/YOUR_HANDLE |
-| CodeChef | https://www.codechef.com/users/YOUR_HANDLE |
-| LeetCode | https://leetcode.com/YOUR_USERNAME |
-| CSES | https://cses.fi |
-| HackerRank | https://www.hackerrank.com/YOUR_USERNAME |
+| Codeforces | https://codeforces.com/profile/shuvo5198 |
+| CodeChef | https://www.codechef.com/users/constant5198 |
+| LeetCode | https://leetcode.com/u/gSgOXIcEuV/ |
+| HackerRank | https://www.hackerrank.com/profile/jambdkwls33 |
 
 ---
 
