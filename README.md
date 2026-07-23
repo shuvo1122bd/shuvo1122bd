@@ -63,14 +63,6 @@ My long-term goal is to become a skilled software engineer with a strong algorit
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvo1122bd&theme=github-compact&hide_border=true"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuvo1122bd/shuvo1122bd/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shuvo1122bd/shuvo1122bd/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuvo1122bd&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo1122bd&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
