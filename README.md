@@ -60,7 +60,7 @@ My long-term goal is to become a skilled software engineer with a strong algorit
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo1122bd&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=shuvo1122bdE&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shuvo1122bd&theme=github-dark&hide_border=true"/>
 
 </div>
 
